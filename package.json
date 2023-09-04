@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/yesiddn/random-terminal-message/issues"
   },
-  "homepage": "https://github.com/yesiddn/random-terminal-message#readme"
+  "homepage": "https://github.com/yesiddn/random-terminal-message#readme",
+  "bin": {
+    "random-terminal-message": "./bin/global.js"
+  },
+  "preferGlobal": true
 }

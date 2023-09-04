@@ -11,21 +11,6 @@ const messages = [
   'Reinventing the wheel. Again.',
   'This is not the commit message you are looking for',
   'Batman! (this commit has no parents)',
-  'Merge conflict resolution complete',
-  'Code review comments addressed',
-  'Refactoring for better performance',
-  'Testing... Testing... 123',
-  'Added missing semicolon',
-  'Code is now 100% bug-free',
-  'Refactored code for readability',
-  'Documentation updated',
-  'Fixing typos in comments',
-  'Feature XYZ implemented',
-  'Squashed some bugs',
-  'Code cleanup in progress',
-  'Optimizing database queries',
-  'Adding new unit tests',
-  'Ready for deployment',
 ];
 
 const funnyCommit = () => {
